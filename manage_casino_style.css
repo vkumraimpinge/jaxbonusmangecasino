@@ -1,0 +1,330 @@
+ /*
+#title_row 
+{
+margin:10px 0px 10px 0px ;
+font-size:20px;
+font-weight:bold ;
+}
+
+#add_adtabl tr td:first-child
+{
+max-width:120px;
+font-weight:bold;
+}
+
+#actions
+{
+text-align:left;
+}
+
+
+
+*/
+
+
+ 
+#show_data
+{
+width:99%;
+margin:30px 0px 20px 0px ;
+padding:5px 0px 5px 0px ;
+}
+
+.wp-list-table #datamsg
+{
+color:#EF2FA2;
+}
+
+#addnewlink
+{
+ height:30px;
+ padding :5px0px 5px 0px ;
+ margin-bottom:10px; 
+}
+
+#addnewlink label
+{
+ font-size:20px ;
+ color:#222;
+ margin:0px 10px 0px 5px;
+}
+
+#addnewlink a
+{
+background:#e0e0e0 ;
+padding:5px ;
+text-decoration:none;
+font-weight:bold;
+font-size:14px;
+}
+
+#coutries_selectbox
+{
+vertical-align:top ;
+}
+
+#coutries_selectbox span
+{
+font-size:11px;
+}
+
+#add_adtabl
+{
+width:550px;
+}
+
+#add_adtabl tbody tr
+{
+height:55px;
+}
+
+#add_adtabl tr td:first-child
+{
+ min-width:115px ;
+}
+
+#add_adtabl tbody  tr#cat_message
+{
+height:22px !important;
+}
+
+#add_adtabl td:nth-child(2) input
+{
+width:410px;
+min-height:30px;
+}
+
+#add_adtabl td #description, #add_adtabl td #sel_countries
+{
+width:410px;
+min-height:135px;
+}
+
+
+#add_adtabl input.rad_enable
+{
+max-width:20px;
+}
+/* ---------------------------------------------------------------------------------------------- */
+
+.manage_casino #titlediv ,.manage_casino #game_code
+{
+margin-bottom:15px;
+}
+.manage_casino  #titlediv #title-prompt-text
+{
+float:left;
+position: relative;
+}
+.manage_casino  #titlediv #title , #casino_game_code #game_code
+{
+width: 92%;
+}
+
+.manage_casino #casino_game_code #game_code
+ {
+   background-color: #fff;
+    font-size: 1.7em;
+    height: 1.7em;
+    line-height: 100%;
+    margin: 0;
+    outline: 0 none;
+    padding: 3px 8px;
+}
+
+.manage_casino #wpbody-content .wp-editor-wrap {
+    float: left;
+    margin: 10px 0 30px 3px;
+    width: 92%;
+}
+
+.manage_casino #title-prompt-desc
+{
+   color: #777;
+    font-size: 1.7em;
+}    
+
+
+
+.manage_casino  .post_casino_image
+{
+float:left;
+width:50% ;
+}
+
+
+.manage_casino  #leftsidebar_content
+{
+float:left;
+width:76%;
+margin:0px;
+padding:0px;
+}
+
+.manage_casino #rightsidebar_content
+{
+float:right;
+width:23%;
+}
+
+.manage_casino #rightsidebar_content input
+{
+max-width:99% ;
+}
+
+.manage_casino #rightsidebar_content select
+{
+min-height: 100px;
+width: 100%;
+}
+
+.manage_casino #rightsidebar_content div
+{
+max-width:99% ;
+overflow:hidden;
+}
+
+
+.manage_casino .rightsidebox
+{
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    position: relative;
+    max-height:280px;
+    margin-bottom:15px ;
+}
+
+.manage_casino .rightsidebox h3
+{
+ border-bottom: 1px solid #eee;
+}
+
+.manage_casino .rightsidebox  #select-status
+{
+margin:10px ;
+}
+
+.manage_casino .post_casino_image label
+{
+float:left;
+font-size:20px;
+color:#000;
+margin-right:20px;
+vertical-align:middle;
+padding-top:6px;
+}
+
+
+.manage_casino .submit_form_btn
+{
+float:left;
+margin:25px 0px 30px 0px ;
+}
+
+.manage_casino .wp-editor-wrap
+{
+ margin: 15px 0 20px;
+    position: relative;
+    width: 92%;
+}    
+
+#do_theaction
+{
+float:left;
+width:100%;
+}
+
+#casino_actions
+{hdghdghdfgh
+width:120px;
+background-color: #fff;
+border: 1px solid #ddd;
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07) inset;
+color: #333;
+transition: border-color 0.05s ease-in-out 0s;
+margin-right:10px;
+}
+
+#do_theaction #btn_doaction
+{
+	background: none repeat scroll 0 0 #f7f7f7;
+	border-color: #ccc;
+	box-shadow: 0 1px 0 #fff inset, 0 1px 0 rgba(0, 0, 0, 0.08);
+	color: #555;
+	vertical-align: top;
+	border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    height: 28px;
+    line-height: 26px;
+    
+    padding: 0 10px 1px;
+    text-decoration: none;
+    white-space: nowrap;
+    
+}
+
+#do_theaction #btn_doaction:hover
+{
+	background: none repeat scroll 0 0 #fafafa;
+	border-color: #999;
+	color: #222;
+}
+
+.showselected
+{
+/*  background:#F47949;  */
+}
+
+.current_image
+{
+float:left;
+}
+
+.image_container
+{
+float:left;
+width:100%;
+height:100px;
+}
+.showmedium_image
+{
+max-height:90px;
+max-width:90px;
+}
+
+.inside p
+{
+margin:0px 2px 0px 0px;
+padding:0px;
+float:right;
+}
+
+
+.inside p img
+{
+margin-top:7px;
+}
+
+
+.casinohide
+{
+display:none ;
+}
+
+#no_deposit_codes input , #prev_working_codes input , #daily_promo input
+{
+float:left;
+margin:10px 0px 10px 10px;
+max-width:182px;
+}
+
+p.casinoinp
+{
+float:left ;
+}
